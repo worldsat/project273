@@ -12,7 +12,7 @@ Welcome! This repository contains the **free assets (images/icons)** used in my 
 ## 📺 Watch the Tutorial
 Follow along to build this UI step-by-step!
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)]()
+[![Watch the video](https://img.youtube.com/vi/6OolF0K-Rlk/maxresdefault.jpg)]([YOUR_VIDEO_LINK_HERE](https://youtu.be/6OolF0K-Rlk))
 
 *(Click the image above to watch the video)*
 
@@ -33,7 +33,7 @@ The **AI Prompt** used to generate this code with Gemini, along with the **Compl
 * Full Android Studio Project source code.
 * Priority replies and exclusive badges.
 
-[**👉 Click Here to Join & Support the Channel**]()
+[**👉 Click Here to Join & Support the Channel**](https://www.youtube.com/channel/UCpuuunu6eo-TLa1eT0gSooQ/join)
 
 *(Already a member? Check the Community Tab or the members-only post for the download link)*
 
