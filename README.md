@@ -12,7 +12,7 @@ Welcome! This repository contains the **free assets (images/icons)** used in my 
 ## 📺 Watch the Tutorial
 Follow along to build this UI step-by-step!
 
-[![Watch the video](https://img.youtube.com/vi/6OolF0K-Rlk/maxresdefault.jpg)]([YOUR_VIDEO_LINK_HERE](https://youtu.be/6OolF0K-Rlk))
+[![Watch the video]]([YOUR_VIDEO_LINK_HERE](https://youtu.be/6OolF0K-Rlk))
 
 *(Click the image above to watch the video)*
 
